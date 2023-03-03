@@ -1,6 +1,6 @@
 # Project Base By Mizh Hieu Do
 
-Project is process when i worked on VMO company summed up.Hope my project can support you know more something !!! :worked:
+Project is process when i worked on VMO company summed up.Hope my project can support you know more something !!! :smiling_face_with_three_hearts:
 
 ### Requirement 
 
